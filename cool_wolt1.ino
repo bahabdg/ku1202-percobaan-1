@@ -19,6 +19,8 @@
   http://www.arduino.cc/en/Tutorial/Button
 */
 
+
+// tambah baris komen
 int buttonState = 0;
 
 void setup()
