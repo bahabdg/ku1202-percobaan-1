@@ -20,7 +20,7 @@
 */
 
 
-// tambah baris komen
+// tambah/ubah baris komen
 int buttonState = 0;
 
 void setup()
